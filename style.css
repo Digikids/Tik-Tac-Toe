@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+table,
+td,
+tr {
+  border: 5px solid black;
+}
+
+td {
+  padding: 70px;
+  border-radius: 50%;
+}
+
+td:hover {
+  cursor: pointer;
+}
+
+table {
+  padding: 10px;
+  background-color: beige;
+  border-radius: 10px;
+}
+
+.player {
+  background-color: gold;
+}
+
+.computer {
+  background-color: red;
+}
