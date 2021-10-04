@@ -34,3 +34,25 @@ table {
 .computer {
   background-color: red;
 }
+
+.info {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  max-width: 15%;
+}
+
+button {
+  padding: 5px 20px;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: aliceblue;
+  font-family: "Poppins";
+  font-size: 20px;
+  border-radius: 1000px;
+  display: block;
+  margin-top: 20px;
+  text-transform: lowercase;
+  max-width: 100%;
+}
